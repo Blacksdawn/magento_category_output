@@ -16,3 +16,18 @@ USAGE
 2. Run file in browser: http://www.yourStoreURL.com/categoryOutput.php
 3. Put attribute name to (Array type) `$headArray` for output table head row elements. Search `$headArray` for 1st result.
 4. Put associated product attribute values to (Array type) `$itemArray` for output content. Search `$itemArray` for 2nd result.
+
+$headArray will be displayed:
+-----------------------------
+
+    '#',
+    'Category ID',
+    'Category Name',
+    'Category URL',
+    'Category Level'
+
+Table to be displayed in similar format:
+----------------------------------------
+
+    # | Category ID | Category Name | Category URL | Category Level
+    --- | --- | --- | --- | ---
