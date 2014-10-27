@@ -3,8 +3,9 @@ magento_category_output
 
 [Created by Boson](http://www.bosonhuang.com)
 
-Count & Output all categories from your Magento store. Outputs includes Category ID, Category Name, Category URL path and Category Level.
+Count & Output all categories from your Magento store.
 
+Output includes Category ID, Category Name, Category URL path and Category Level.
 Output is generated in table view, thus you can copy and past in Excel to convert into prettier sortable table.
 
 Need help? Email [Boson](mailto:boson@bosonhuang.com)
